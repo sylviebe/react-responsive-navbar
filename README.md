@@ -1,7 +1,6 @@
 # react-responsive-navbar
 
-!video[ title ](demo.mp4){ size=10 }
-
+![ title ](demo.mp4)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
