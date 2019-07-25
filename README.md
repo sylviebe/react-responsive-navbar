@@ -1,6 +1,7 @@
 # react-responsive-navbar
-
-![demo](demo.mp4)
+<video controls="controls">
+  <source type="video/mp4" src="demo.mp4"></source>
+</video>
 
 
 
